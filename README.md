@@ -1,2 +1,3 @@
 # site-artes
-Site para prática escolar.
+Site pra escola
+
